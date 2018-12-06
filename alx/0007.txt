@@ -1,5 +1,5 @@
 {
-  "eGroupStatus" : "1",
+  "eGroupStatus" : "2",
   "groupID" : "0007",
   "groupName" : "g_alx_0007",
   "groupInfo" : {
