@@ -6,7 +6,7 @@
     "{\n  \"taskInfo\" : {\n    \"address\" : \"0069\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0069\",\n  \"taskID\" : \"0069\",\n  \"createTime\" : \"2018-12-05 11:33:29\",\n  \"eTaskStatus\" : \"1\"\n}",
     "{\n  \"taskInfo\" : {\n    \"address\" : \"0070\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0070\",\n  \"taskID\" : \"0070\",\n  \"createTime\" : \"2018-12-05 11:33:29\",\n  \"eTaskStatus\" : \"1\"\n}"
   ],
-  "eGroupStatus" : "2",
+  "eGroupStatus" : "1",
   "groupID" : "0013",
   "groupInfo" : {
     "pre" : "alx"
