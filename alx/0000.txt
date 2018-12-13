@@ -1,10 +1,4 @@
 {
-  "eGroupStatus" : "1",
-  "groupID" : "0000",
-  "groupName" : "g_alx_0000",
-  "groupInfo" : {
-    "pre" : "alx"
-  },
   "taskList" : [
     "{\n  \"taskInfo\" : {\n    \"address\" : \"0001\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0001\",\n  \"taskID\" : \"0001\",\n  \"createTime\" : \"2018-12-13 08:50:50\",\n  \"eTaskStatus\" : \"1\"\n}",
     "{\n  \"taskInfo\" : {\n    \"address\" : \"0002\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0002\",\n  \"taskID\" : \"0002\",\n  \"createTime\" : \"2018-12-13 08:50:50\",\n  \"eTaskStatus\" : \"1\"\n}",
@@ -12,5 +6,12 @@
     "{\n  \"taskInfo\" : {\n    \"address\" : \"0004\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0004\",\n  \"taskID\" : \"0004\",\n  \"createTime\" : \"2018-12-13 08:50:50\",\n  \"eTaskStatus\" : \"1\"\n}",
     "{\n  \"taskInfo\" : {\n    \"address\" : \"0005\",\n    \"pass\" : \"passA\"\n  },\n  \"taskName\" : \"alx_0005\",\n  \"taskID\" : \"0005\",\n  \"createTime\" : \"2018-12-13 08:50:50\",\n  \"eTaskStatus\" : \"1\"\n}"
   ],
+  "eGroupStatus" : "2",
+  "groupID" : "0000",
+  "groupInfo" : {
+    "pre" : "alx"
+  },
+  "groupName" : "g_alx_0000",
+  "distributeTime" : "2018-12-13 08:58:37",
   "createTime" : "2018-12-13 08:50:50"
 }
