@@ -1,0 +1,18 @@
+{
+  "groupInfo" : {
+    "pre" : "alx"
+  },
+  "taskList" : [
+    "{\n  \"taskName\" : \"alx_0001\",\n  \"createTime\" : \"2018-12-13 09:58:05\",\n  \"taskInfo\" : {\n    \"address\" : \"0001\",\n    \"pass\" : \"passA\"\n  },\n  \"resultTime\" : \"2018-12-13 10:14:12\",\n  \"taskID\" : \"0001\",\n  \"distributeTime\" : \"2018-12-13 10:00:12\",\n  \"eTaskStatus\" : \"3\",\n  \"taskResult\" : {\n    \"status\" : \"00\"\n  }\n}",
+    "{\n  \"taskName\" : \"alx_0002\",\n  \"createTime\" : \"2018-12-13 09:58:05\",\n  \"taskInfo\" : {\n    \"address\" : \"0002\",\n    \"pass\" : \"passA\"\n  },\n  \"resultTime\" : \"2018-12-13 10:15:25\",\n  \"taskID\" : \"0002\",\n  \"distributeTime\" : \"2018-12-13 10:00:12\",\n  \"eTaskStatus\" : \"3\",\n  \"taskResult\" : {\n    \"status\" : \"00\"\n  }\n}",
+    "{\n  \"taskName\" : \"alx_0003\",\n  \"createTime\" : \"2018-12-13 09:58:05\",\n  \"taskInfo\" : {\n    \"address\" : \"0003\",\n    \"pass\" : \"passA\"\n  },\n  \"resultTime\" : \"2018-12-13 10:16:36\",\n  \"taskID\" : \"0003\",\n  \"distributeTime\" : \"2018-12-13 10:00:12\",\n  \"eTaskStatus\" : \"3\",\n  \"taskResult\" : {\n    \"status\" : \"00\"\n  }\n}",
+    "{\n  \"taskName\" : \"alx_0004\",\n  \"createTime\" : \"2018-12-13 09:58:05\",\n  \"taskInfo\" : {\n    \"address\" : \"0004\",\n    \"pass\" : \"passA\"\n  },\n  \"resultTime\" : \"2018-12-13 10:17:49\",\n  \"taskID\" : \"0004\",\n  \"distributeTime\" : \"2018-12-13 10:00:12\",\n  \"eTaskStatus\" : \"3\",\n  \"taskResult\" : {\n    \"status\" : \"00\"\n  }\n}",
+    "{\n  \"taskName\" : \"alx_0005\",\n  \"createTime\" : \"2018-12-13 09:58:05\",\n  \"taskInfo\" : {\n    \"address\" : \"0005\",\n    \"pass\" : \"passA\"\n  },\n  \"resultTime\" : \"2018-12-13 10:19:03\",\n  \"taskID\" : \"0005\",\n  \"distributeTime\" : \"2018-12-13 10:00:12\",\n  \"eTaskStatus\" : \"3\",\n  \"taskResult\" : {\n    \"status\" : \"00\"\n  }\n}"
+  ],
+  "createTime" : "2018-12-13 09:58:05",
+  "resultTime" : "2018-12-13 10:35:44",
+  "groupID" : "0000",
+  "eGroupStatus" : "4",
+  "distributeTime" : "2018-12-13 10:00:11",
+  "groupName" : "g_alx_0000"
+}
